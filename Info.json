@@ -1,0 +1,8 @@
+﻿{
+  "Id": "SansMod",
+  "DisplayName": "Sans Mod",
+  "Author": "PatrickKR",
+  "Version": "1.0.0",
+  "AssemblyName": "SansMod.dll",
+  "EntryMethod": "SansMod.Main.Load"
+}
